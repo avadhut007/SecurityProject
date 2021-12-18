@@ -1,0 +1,6 @@
+close sql connection
+HOw to make program return 1
+
+
+https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_in_Java_Cheat_Sheet.html
+

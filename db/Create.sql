@@ -1,0 +1,1 @@
+create table personinfo(name varchar(50) not null, phnumber varchar(20) not null, primary key(name));
